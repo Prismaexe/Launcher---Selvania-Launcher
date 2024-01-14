@@ -5,7 +5,7 @@
     "description": "Launcher Minecraft Pour Launcher",
     "main": "src/app.js",
     "author": "Prisma/Luuxis",
-    "url": "http://172.252.236.131:25565/",
+    "url": "http://172.252.236.131:8081/",
     "engines": {
         "node": "^18.x.x"
     },
